@@ -1,0 +1,22 @@
+{
+  "name": "Dr. Mani Dental Care",
+  "short_name": "Dr. Mani",
+  "description": "Premium dental care using modern technology and personalized treatments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#17324D",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ]
+}
